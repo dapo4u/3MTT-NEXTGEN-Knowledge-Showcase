@@ -18,5 +18,7 @@ The app is deployed at https://6bacecb0.mydala.app
 
 <img src="images" width="700" alt="Project Screenshot"
 
-![Descriptive Alt Text](images//eb92960b2aa81cbf11526f05c6a96e5691bc55931b03a9e797a7672afad17e85.png)
+![Descriptive Alt Text](images/eb92960b2aa81cbf11526f05c6a96e5691bc55931b03a9e797a7672afad17e85.png)
+
+![Descriptive Alt Text](images/screenshot.png)
 
