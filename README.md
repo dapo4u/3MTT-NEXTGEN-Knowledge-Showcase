@@ -68,13 +68,12 @@ Tracker App 2
 
 📸 Screenshots
 
-"Tracker" (Images/Tracker.jpg)
 
-"Tracker" (Images/16.jpg)
+![Descriptive Alt Text](Images/Tracker.jpg)
+![Descriptive Alt Text](Images/16.jpg)
 
-"Tracker" (Images/17.jpg)
-
-"Tracker" (Images/18.jpg)
+![Descriptive Alt Text](Images/17.jpg)
+![Descriptive Alt Text](Images/18.jpg)
 
 ---
 
@@ -109,19 +108,26 @@ The system detects fire in real time and instantly sends alerts through multiple
 
 📸 Project Images
 
-"IoT Fire" (Images/11.jpg)
+![Descriptive Alt Text](Images/6.jpg)
 
-"IoT Fire" (Images/12.jpg)
+![Descriptive Alt Text](Images/7.jpg)
 
-"IoT Fire" (Images/14.jpg)
 
-"IoT Fire" (Images/15.jpg)
+![Descriptive Alt Text](Images/8.jpg)
+
+
+![Descriptive Alt Text](Images/9.jpg)
+
+
+![Descriptive Alt Text](Images/10.jpg)
+
 
 ---
 
 ⚙️ System Architecture
 
-"Architecture" (Images/eb92960b2aa81cbf11526f05c6a96e5691bc55931b03a9e797a7672afad17e85.png)
+"Architecture" 
+![Descriptive Alt Text](Images/eb92960b2aa81cbf11526f05c6a96e5691bc55931b03a9e797a7672afad17e85.png)
 
 ---
 
