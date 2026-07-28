@@ -79,7 +79,7 @@ Tracker App 2
 
 🔥 3. IoT Fire Detection & Alert System
 
-This is one of my favorite projects and this project is the best thing since slice bread 🥪 because it combines or marries Electronics, IoT, Cloud Computing, and Software Engineering into a single intelligent solution.
+This is one of my favorite projects and this project is the best thing since sliced bread 🥪 because it combines or marries Electronics, IoT, Cloud Computing, and Software Engineering into a single intelligent solution.
 
 The system detects fire in real time and instantly sends alerts through multiple communication channels.
 
