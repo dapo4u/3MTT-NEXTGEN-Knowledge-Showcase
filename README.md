@@ -22,12 +22,16 @@ If someone is living in USA and his house in Nigeria is burning ,he will get the
 # The app is useful for security men at night because most fire out break at market usually occurs at night and since one security man cannot be in many places at the same time ,this app will sense any fire at any place in a market.Once  the alert is received,they will be able to swing into action immediately in order to put out the fire .
 The iot fire sensor app is deployed at 
 https://36fef3c2.mydala.app/
-![Descriptive Alt Text](Images/Fire5.jpg)
+![Descriptive Alt Text
+(Images/Fire5.jpg)
 
 
 ![Descriptive Alt Text](Images/Fire 1.jpg)
 
 ![Descriptive Alt Text](Images/Fire 2.jpg)
+
+![Descriptive Alt Text](Images/Fire.jpg)
+
 
 # The fourth app that I made is for satellite tv installers ,of which I am also an installer 
 The app is deployed at https://6bacecb0.mydala.app
