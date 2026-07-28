@@ -18,6 +18,20 @@ The other app that I made was a tracking app that can track anything , including
 This app made from Dala studio is the best thing since sliced bread.In this project I married electronics with coding
 # Materials /Software used for the project.
 1.Fire sensor 2.ESP8266  Nodemcu Controller with Wi-Fi 3.Bread board 4.Jumper wires 5.Arduino droid 6.Type C cord 7.Lighter that serves as the source of the fire . 8 Blynk cloud server 9.Dala studio 
+![Descriptive Alt Text](Images/11.jpg)
+
+![Descriptive Alt Text](Images/12.jpg)
+
+![Descriptive Alt Text](Images/13.jpg)
+
+![Descriptive Alt Text](Images/14.jpg)
+
+![Descriptive Alt Text](Images/15.jpg)
+
+
+
+
+
 # Mechanism of operation 
 
 
