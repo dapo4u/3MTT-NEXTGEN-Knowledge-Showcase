@@ -16,4 +16,4 @@ https://36fef3c2.mydala.app/
 # The fourth app that I made is for satellite tv installers ,of which I am also an installer 
 The app is deployed at https://6bacecb0.mydala.app
 
-eb92960b2aa81cbf11526f05c6a96e5691bc55931b03a9e797a7672afad17e85.png
+<img src="images/eb92960b2aa81cbf11526f05c6a96e5691bc55931b03a9e797a7672afad17e85.png" width="700" alt="Project Screenshot">
