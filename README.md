@@ -17,7 +17,12 @@ The other app that I made was a tracking app that can track anything , including
 
 ![Descriptive Alt Text](Images/Tracker.jpg)
 
-![Descriptive Alt Text](Images/Tracker1.jpg)
+![Descriptive Alt Text](Images/16.jpg)
+
+
+![Descriptive Alt Text](Images/17.jpg)
+
+![Descriptive Alt Text](Images/18.jpg)
 
 # The third app that I made from dala studio was the IOT fire alarm project.
 This app made from Dala studio is the best thing since sliced bread.In this project I married electronics with coding
