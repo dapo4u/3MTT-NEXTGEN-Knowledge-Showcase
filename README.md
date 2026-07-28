@@ -14,6 +14,8 @@ The other app that I made was a tracking app that can track anything , including
 # Take note, immediate actions must be taken, once the alert has been received via the telegram  bot when  a person has been kidnapped or a car or phone has been stolen.I deployed the tracking app at Kidnappers tracker app 1  -https://57aa1746.mydala.app
  
  kidnappers tracker app 2-     https://5d7eca83.mydala.app
+
+
 # The third app that I made from dala studio was the IOT fire alarm project.
 This app made from Dala studio is the best thing since sliced bread.In this project I married electronics with coding
 # Materials /Software used for the project.
@@ -22,7 +24,7 @@ This app made from Dala studio is the best thing since sliced bread.In this proj
 
 ![Descriptive Alt Text](Images/12.jpg)
 
-![Descriptive Alt Text](Images/13.jpg)
+(Images/13.jpg)
 
 ![Descriptive Alt Text](Images/14.jpg)
 
