@@ -15,6 +15,7 @@ The other app that I made was a tracking app that can track anything , including
  
  kidnappers tracker app 2-     https://5d7eca83.mydala.app
 
+![Descriptive Alt Text](Images/Tracker.jpg)
 
 # The third app that I made from dala studio was the IOT fire alarm project.
 This app made from Dala studio is the best thing since sliced bread.In this project I married electronics with coding
@@ -24,7 +25,6 @@ This app made from Dala studio is the best thing since sliced bread.In this proj
 
 ![Descriptive Alt Text](Images/12.jpg)
 
-(Images/13.jpg)
 
 ![Descriptive Alt Text](Images/14.jpg)
 
