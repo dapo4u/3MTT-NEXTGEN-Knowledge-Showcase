@@ -1,4 +1,4 @@
-# 3MTT-NEXTGEN-Knowledge-Showcase
+we# 3MTT-NEXTGEN-Knowledge-Showcase
 A suite of Apps-watch out for my iot apps loading ....
 The very First app that I made when 3MTT made public the Dala studio was the Chemical balancer app that is used for balancing chemical equations ,it can balance complex chemical equations for Chemistry students and teachers also find the app useful,the app is deployed at https://cb24979c.mydala.app
 The other app that I made was a tracking app that can track anything , including Kidnappers, including stolen cars and phone ,the app made by dala studio stores and send the location of a kidnapped person, stolen car or phone automatically to a configured telegram account.In this way the person kidnapped ,stolen phone and cars can be recovered.
@@ -16,4 +16,7 @@ https://36fef3c2.mydala.app/
 # The fourth app that I made is for satellite tv installers ,of which I am also an installer 
 The app is deployed at https://6bacecb0.mydala.app
 
-<img src="images/eb92960b2aa81cbf11526f05c6a96e5691bc55931b03a9e797a7672afad17e85.png" width="700" alt="Project Screenshot">
+<img src="images" width="700" alt="Project Screenshot"
+
+![Descriptive Alt Text](images//eb92960b2aa81cbf11526f05c6a96e5691bc55931b03a9e797a7672afad17e85.png)
+
