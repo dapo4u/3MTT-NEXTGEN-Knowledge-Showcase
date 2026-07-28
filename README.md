@@ -106,6 +106,17 @@ The system detects fire in real time and instantly sends alerts through multiple
 - ☁️ Blynk Cloud
 - 🌐 Dala Studio
 
+- 📸 Screenshots
+- ![Descriptive Alt Text](Images/11.jpg)
+
+![Descriptive Alt Text](Images/12.jpg)
+
+
+![Descriptive Alt Text](Images/14.jpg)
+
+
+![Descriptive Alt Text](Images/15.jpg)
+
 📸 Project Images
 
 ![Descriptive Alt Text](Images/6.jpg)
