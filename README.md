@@ -30,7 +30,7 @@ https://36fef3c2.mydala.app/
 
 ![Descriptive Alt Text](Images/Fire 2.jpg)
 
-![Descriptive Alt Text](Images/Fire.jpg)
+![Descriptive Alt Text](Images/fire.jpg)
 
 
 # The fourth app that I made is for satellite tv installers ,of which I am also an installer 
