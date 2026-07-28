@@ -37,12 +37,10 @@ balance both simple and complex chemical equations quickly and accurately.
 
 📸 Screenshots
 
-"Chemical Balancer" (Images/1.jpg)
 
-"Chemical Balancer" (Images/2.jpg)
-
-"Chemical Balancer" (Images/3.jpg)
-
+![Descriptive Alt Text](Images/1.jpg)
+![Descriptive Alt Text](Images/2.jpg)
+![Descriptive Alt Text](Images/3.jpg)
 ---
 
 📍 2. Smart Tracking & Recovery App
