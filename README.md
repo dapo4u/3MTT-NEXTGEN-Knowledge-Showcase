@@ -26,7 +26,7 @@ https://36fef3c2.mydala.app/
 (Images/Fire5.jpg)
 
 
-![Descriptive Alt Text](Images/Fire.jpg)
+![Descriptive Alt Text](Images/6.jpg)
 
 ![Descriptive Alt Text](Images/Fire 2.jpg)
 
