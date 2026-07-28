@@ -8,9 +8,7 @@ The very First app that I made when 3MTT made public the Dala studio was the Che
 
 ![Descriptive Alt Text](Images/3.jpg)
 
-![Descriptive Alt Text](Images/4.jpg)
 
-![Descriptive Alt Text](Images/5.jpg)
 
 The other app that I made was a tracking app that can track anything , including Kidnappers, including stolen cars and phone ,the app made by dala studio stores and send the location of a kidnapped person, stolen car or phone automatically to a configured telegram account.In this way the person kidnapped ,stolen phone and cars can be recovered.
 # Take note, immediate actions must be taken, once the alert has been received via the telegram  bot when  a person has been kidnapped or a car or phone has been stolen.I deployed the tracking app at Kidnappers tracker app 1  -https://5d7eca83.mydala.app kidnappers tracker app 2- https://57aa1746.mydala.app
@@ -24,6 +22,13 @@ If someone is living in USA and his house in Nigeria is burning ,he will get the
 # The app is useful for security men at night because most fire out break at market usually occurs at night and since one security man cannot be in many places at the same time ,this app will sense any fire at any place in a market.Once  the alert is received,they will be able to swing into action immediately in order to put out the fire .
 The iot fire sensor app is deployed at 
 https://36fef3c2.mydala.app/
+![Descriptive Alt Text](Images/Fire.jpg)
+
+
+![Descriptive Alt Text](Images/Fire 1.jpg)
+
+![Descriptive Alt Text](Images/Fire 2.jpg)
+
 # The fourth app that I made is for satellite tv installers ,of which I am also an installer 
 The app is deployed at https://6bacecb0.mydala.app
 
