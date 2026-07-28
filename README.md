@@ -4,6 +4,14 @@ The very First app that I made when 3MTT made public the Dala studio was the Che
 
 ![Descriptive Alt Text](Images/1.jpg)
 
+![Descriptive Alt Text](Images/2.jpg)
+
+![Descriptive Alt Text](Images/3.jpg)
+
+![Descriptive Alt Text](Images/4.jpg)
+
+![Descriptive Alt Text](Images/5.jpg)
+
 The other app that I made was a tracking app that can track anything , including Kidnappers, including stolen cars and phone ,the app made by dala studio stores and send the location of a kidnapped person, stolen car or phone automatically to a configured telegram account.In this way the person kidnapped ,stolen phone and cars can be recovered.
 # Take note, immediate actions must be taken, once the alert has been received via the telegram  bot when  a person has been kidnapped or a car or phone has been stolen.I deployed the tracking app at Kidnappers tracker app 1  -https://5d7eca83.mydala.app kidnappers tracker app 2- https://57aa1746.mydala.app
 # The third app that I made from dala studio was the IOT fire alarm project.
