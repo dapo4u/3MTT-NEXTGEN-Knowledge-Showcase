@@ -172,19 +172,8 @@ It can also help security personnel monitor multiple locations simultaneously, e
 
 👉 https://36fef3c2.mydala.app/
 
-📸 Screenshots
 
-"Fire App" (Images/6.jpg)
 
-"Fire App" (Images/7.jpg)
-
-"Fire App" (Images/8.jpg)
-
-"Fire App" (Images/9.jpg)
-
-"Fire App" (Images/10.jpg)
-
----
 
 📡 4. Satellite TV Installer Assistant
 
@@ -229,7 +218,7 @@ Stay tuned—more exciting projects are on the way!
 
 👨‍💻 Author
 
-Tunde Kunle
+Olatunji Dapo Raphael 
 
 Participant — 3MTT NEXTGEN Knowledge Showcase
 
