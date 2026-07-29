@@ -133,6 +133,10 @@ The system detects fire in real time and instantly sends alerts through multiple
 ![Descriptive Alt Text](Images/10.jpg)
 
 
+![Descriptive Alt Text](Images/19.jpg)
+
+![Descriptive Alt Text](Images/20.jpg)
+
 ---
 
 ⚙️ System Architecture
