@@ -1,9 +1,13 @@
-🚀 3MTT NEXTGEN Knowledge Showcase
+t🚀 3MTT NEXTGEN Knowledge Showcase
 
 «A collection of innovative AI, IoT, and Web Applications built with Dala Studio, ESP8266, Blynk Cloud, and Telegram.»
 
 Welcome to my 3MTT NEXTGEN Knowledge Showcase repository! 🎉
 
+
+## 🎥 Demo Video
+
+[![Watch Demo](https://img.youtube.com/vi/8ja3r-IufpM/maxresdefault.jpg)](https://www.youtube.com/watch?v=8ja3r-IufpM)
 This repository highlights some of the innovative applications I developed during the 3MTT NextGen Program, combining Artificial Intelligence, Internet of Things (IoT), Electronics, Automation, and Web Technologies to solve real-world problems.
 
 ---
